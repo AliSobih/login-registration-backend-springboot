@@ -6,7 +6,8 @@
   4. Spring Security
   5. Java Mail
 # Diagram
-  ![image](https://github.com/AliSobih/login-registration-backend-springboot/assets/43109825/8b1cfcb9-45ff-4e05-b722-6c398e62464d)
+  ![image](https://github.com/AliSobih/login-registration-backend-springboot/assets/43109825/96ded252-4975-418c-ab32-1c34c55343fc)
+
   
 # Project description
     1. Signin/logout or registracion your email as user or admin
